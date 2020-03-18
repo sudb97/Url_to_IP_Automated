@@ -15,7 +15,7 @@ How to Use
 the command will be python ""D:\Python Projects\ULR to IP automated\Urlip_automated.py". Press enter the script will be up and running.
 
 4. The list of the urls should be in the .txt format and the format in which it should be is given as an example. Please refer to 
-URL.txt file (Note: The first line of the text file will contain Links followed by the unique urls)
+URL.txt file (Note: The first line of the text file will contain the word "links" followed by the unique urls)
 5. After successful completion of the script the .xls file will be generated containing all urls mapped to the respective ips in the path 
 specified by the user.
 
