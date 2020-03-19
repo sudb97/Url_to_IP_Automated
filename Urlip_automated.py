@@ -9,6 +9,8 @@ import xlwt
 from xlwt import Workbook
 
 """ converting the text file data to a list for easy access"""
+print("PLEASE READ THE README FILE BEFORE USING THE SCRIPT!!!!")
+time.sleep(3)
 print(r"Enter the path of the text file which contains the list of URLs (Ex:D:\Python Projects\ULR to IP automated\URL.txt)")
 url_path=input()
 df = pd.read_csv(url_path)
