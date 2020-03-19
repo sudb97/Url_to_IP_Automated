@@ -20,6 +20,6 @@ URL.txt file (Note: The first line of the text file will contain the word "links
 specified by the user.
 
 
-FOR ANY Queries contact me on github.
+FOR ANY Queries contact me on github (User name: sudb97).
 Thank You :).
 
